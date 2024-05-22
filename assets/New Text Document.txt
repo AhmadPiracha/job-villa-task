@@ -1,0 +1,2107 @@
+/* JobVilla */
+
+position: relative;
+width: 1440px;
+height: 8874px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 1493px;
+height: 1097px;
+left: -27px;
+top: -37px;
+
+background: #000000;
+
+
+/* Job Villa logo-01 2 */
+
+position: absolute;
+width: 980px;
+height: 260px;
+left: -19px;
+top: 1011px;
+
+background: url(Job Villa logo Final2-01.png);
+transform: rotate(-90deg);
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 1446px;
+height: 1175px;
+left: -4px;
+top: 1049px;
+
+background: #000000;
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 1446px;
+height: 1453px;
+left: -4px;
+top: 2224px;
+
+background: #000000;
+
+
+/* Rectangle 23 */
+
+position: absolute;
+width: 1446px;
+height: 1527px;
+left: -4px;
+top: 3677px;
+
+background: #000000;
+
+
+/* Rectangle 34 */
+
+position: absolute;
+width: 1446px;
+height: 3670px;
+left: -4px;
+top: 5204px;
+
+background: #000000;
+
+
+/* Job Villa logo-01 3 */
+
+position: absolute;
+width: 980px;
+height: 260px;
+left: 1198px;
+top: 2127px;
+
+background: url(Job Villa logo Final2-01.png);
+transform: rotate(-90deg);
+
+
+/* Job Villa logo-01 5 */
+
+position: absolute;
+width: 980px;
+height: 260px;
+left: 1198px;
+top: 6276px;
+
+background: url(Job Villa logo Final2-01.png);
+transform: rotate(-90deg);
+
+
+/* Job Villa logo-01 7 */
+
+position: absolute;
+width: 980px;
+height: 260px;
+left: 1198px;
+top: 8380px;
+
+background: url(Job Villa logo Final2-01.png);
+transform: rotate(-90deg);
+
+
+/* Job Villa logo-01 4 */
+
+position: absolute;
+width: 980px;
+height: 260px;
+left: -4px;
+top: 3382px;
+
+background: url(Job Villa logo Final2-01.png);
+transform: rotate(-90deg);
+
+
+/* Job Villa logo-01 6 */
+
+position: absolute;
+width: 980px;
+height: 260px;
+left: -4px;
+top: 7383px;
+
+background: url(Job Villa logo Final2-01.png);
+transform: rotate(-90deg);
+
+
+/* image 1 */
+
+position: absolute;
+visibility: hidden;
+width: 1959px;
+height: 1303px;
+left: -222px;
+top: -86px;
+
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 424px;
+height: 424px;
+left: 831px;
+top: 1313px;
+
+background: #EA4924;
+filter: blur(259.5px);
+
+
+/* Ellipse 7 */
+
+position: absolute;
+width: 304px;
+height: 303px;
+left: 567px;
+top: 2615px;
+
+background: rgba(234, 73, 36, 0.95);
+filter: blur(168px);
+
+
+/* Ellipse 4 */
+
+position: absolute;
+width: 394px;
+height: 394px;
+left: -918px;
+top: 3075px;
+
+background: #EA4924;
+filter: blur(259.5px);
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 375px;
+height: 375px;
+left: -258px;
+top: 144px;
+
+background: #EA4924;
+filter: blur(259.5px);
+
+
+/* Group 3 */
+
+position: absolute;
+width: 1438px;
+height: 1031.17px;
+left: 1px;
+top: -20px;
+
+
+
+/* Find a Jobs! */
+
+position: absolute;
+width: 1438px;
+height: 131.17px;
+left: 1px;
+top: -20px;
+
+background: rgba(255, 255, 255, 0.32);
+opacity: 0.03;
+
+
+/* Find a Jobs! */
+
+position: absolute;
+width: 1438px;
+height: 130.46px;
+left: 1px;
+top: 159.83px;
+
+background: rgba(255, 255, 255, 0.32);
+opacity: 0.03;
+
+
+/* Find a Jobs! */
+
+position: absolute;
+width: 1438px;
+height: 131.17px;
+left: 1px;
+top: 520.18px;
+
+background: rgba(255, 255, 255, 0.32);
+opacity: 0.03;
+
+
+/* Find a Jobs! */
+
+position: absolute;
+width: 1438px;
+height: 131.17px;
+left: 1px;
+top: 880px;
+
+background: rgba(255, 255, 255, 0.32);
+opacity: 0.03;
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 1440px;
+height: 1px;
+left: 0px;
+top: 68px;
+
+background: rgba(255, 255, 255, 0.11);
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Job Villa logo-01 1 */
+
+position: absolute;
+width: 139px;
+height: 37px;
+left: 111px;
+top: 18px;
+
+background: url(Job Villa logo Final-01.png);
+
+
+/* History */
+
+position: absolute;
+width: 55px;
+height: 20px;
+left: 318px;
+top: 25px;
+
+font-family: 'Mont';
+font-style: normal;
+font-weight: 800;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height */
+
+color: #EA4924;
+
+
+
+/* People Talk */
+
+position: absolute;
+width: 86px;
+height: 20px;
+left: 411px;
+top: 25px;
+
+font-family: 'Mont';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Opportunities */
+
+position: absolute;
+width: 105px;
+height: 20px;
+left: 539px;
+top: 25px;
+
+font-family: 'Mont';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Discovers */
+
+position: absolute;
+width: 73px;
+height: 20px;
+left: 685px;
+top: 25px;
+
+font-family: 'Mont';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Group 1 */
+
+position: absolute;
+width: 168px;
+height: 20px;
+left: 1071px;
+top: 25px;
+
+
+
+/* Sign In */
+
+position: absolute;
+width: 51px;
+height: 20px;
+left: 1071px;
+top: 25px;
+
+font-family: 'Mont';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* | */
+
+position: absolute;
+width: 5px;
+height: 20px;
+left: 1135px;
+top: 25px;
+
+font-family: 'Mont';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height */
+
+color: #EA4924;
+
+
+
+/* Create Villa */
+
+position: absolute;
+width: 89px;
+height: 20px;
+left: 1150px;
+top: 25px;
+
+font-family: 'Mont';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 36px;
+height: 1px;
+left: 327px;
+top: 46px;
+
+background: #EA4924;
+border-radius: 20px;
+
+
+/* Group */
+
+position: absolute;
+left: 45.07%;
+right: 54.31%;
+top: 0.35%;
+bottom: 99.55%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 45.07%;
+right: 54.31%;
+top: 0.35%;
+bottom: 99.55%;
+
+background: #EA4924;
+
+
+/* Group */
+
+position: absolute;
+left: 52.99%;
+right: 46.39%;
+top: 0.35%;
+bottom: 99.55%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 52.99%;
+right: 46.39%;
+top: 0.35%;
+bottom: 99.55%;
+
+background: #EA4924;
+
+
+/* robot-with-exclamation-symbol-removebg-preview 1 */
+
+position: absolute;
+visibility: hidden;
+width: 712px;
+height: 802px;
+left: 724px;
+top: 235px;
+
+background: url(robot-with-exclamation-symbol-removebg-preview.png);
+
+
+/* Group 7 */
+
+position: absolute;
+width: 538.74px;
+height: 917px;
+left: calc(50% - 538.74px/2 + 464px);
+top: 144px;
+
+
+
+/* Robot 1 */
+
+position: absolute;
+width: 538.74px;
+height: 917px;
+left: 914.63px;
+top: 144px;
+
+background: url(d5b808217a.png);
+
+
+/* Unlock Your */
+
+position: absolute;
+width: 824px;
+height: 185px;
+left: calc(50% - 824px/2 - 197px);
+top: 227px;
+
+font-family: 'Mont';
+font-style: normal;
+font-weight: 400;
+font-size: 100px;
+line-height: 129px;
+
+color: #FFFFFF;
+
+
+
+/* Global Career */
+
+position: absolute;
+width: 716px;
+height: 133px;
+left: 111px;
+top: 346px;
+
+font-family: 'Mont';
+font-style: normal;
+font-weight: 800;
+font-size: 100px;
+line-height: 133px;
+/* identical to box height */
+
+color: #EA4924;
+
+
+
+/* Group 9 */
+
+position: absolute;
+width: 505px;
+height: 43px;
+left: calc(50% - 505px/2 - 342.5px);
+top: 755px;
+
+
+
+/* Group 11 */
+
+position: absolute;
+width: 505px;
+height: 43px;
+left: 125px;
+top: 755px;
+
+
+
+/* Group 8 */
+
+position: absolute;
+width: 505px;
+height: 43px;
+left: 125px;
+top: 755px;
+
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 72px;
+height: 43px;
+left: 558px;
+top: 755px;
+
+background: #EA4924;
+border-radius: 0px 7px 7px 0px;
+
+
+/* Explore */
+
+position: absolute;
+width: 67px;
+height: 42px;
+left: 152px;
+top: 756px;
+
+font-family: 'Mont';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 42px;
+/* identical to box height, or 233% */
+
+color: #EA4924;
+
+
+
+/* Job title, keywords, or skills */
+
+position: absolute;
+width: 246px;
+height: 31px;
+left: calc(50% - 246px/2 - 317px);
+top: 756px;
+
+font-family: 'Mont';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 42px;
+/* or 233% */
+
+color: #535353;
+
+
+
+/* Rectangle 4 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 505px;
+height: 43px;
+left: 125px;
+top: 755px;
+
+border: 1px solid #FFFFFF;
+border-radius: 7px;
+
+
+/* search 1 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 585px;
+top: 765px;
+
+background: url(search.png);
+
+
+/* Vector 1 */
+
+position: absolute;
+width: 0px;
+height: 41px;
+left: 247px;
+top: 756px;
+
+border: 1px solid #FFFFFF;
+
+
+/* Elevate your career! Explore industry-specific courses, ace certification exams, and land your dream job abroad. Let us guide you from skill acquisition to international employment success! */
+
+position: absolute;
+width: 707px;
+height: 98px;
+left: 125px;
+top: 517px;
+
+font-family: 'Mont';
+font-style: normal;
+font-weight: 200;
+font-size: 18px;
+line-height: 34px;
+/* or 192% */
+
+color: #FFFFFF;
+
+
+
+/* Group 14 */
+
+position: absolute;
+width: 523px;
+height: 592px;
+left: 125px;
+top: 1229px;
+
+
+
+/* About us */
+
+position: absolute;
+width: 225px;
+height: 121px;
+left: calc(50% - 225px/2 - 482.5px);
+top: 1229px;
+
+font-family: 'Mont';
+font-style: normal;
+font-weight: 800;
+font-size: 50px;
+line-height: 121px;
+/* identical to box height, or 242% */
+display: flex;
+align-items: center;
+
+color: #EA4924;
+
+
+
+/* Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. */
+
+position: absolute;
+width: 518px;
+height: 471px;
+left: 130px;
+top: 1350px;
+
+font-family: 'Mont';
+font-style: normal;
+font-weight: 200;
+font-size: 18px;
+line-height: 40px;
+/* or 225% */
+
+color: #FFFFFF;
+
+
+
+/* 3d-render-cute-orange-robot-generative-ai 1 */
+
+position: absolute;
+width: 728px;
+height: 728px;
+left: 692px;
+top: 1273px;
+
+background: url(3d-render-cute-orange-robot-generative-ai.png);
+
+
+/* Rectangle 19 */
+
+position: absolute;
+width: 960px;
+height: 312px;
+left: 239px;
+top: 2714px;
+
+background: rgba(234, 73, 36, 0.75);
+border-radius: 15px;
+
+
+/* Rectangle 20 */
+
+position: absolute;
+width: 756px;
+height: 246px;
+left: 341px;
+top: 2681px;
+
+background: rgba(234, 73, 36, 0.55);
+border-radius: 15px;
+
+
+/* Rectangle 21 */
+
+position: absolute;
+width: 567px;
+height: 184px;
+left: 435px;
+top: 2655px;
+
+background: rgba(234, 73, 36, 0.35);
+border-radius: 15px;
+
+
+/* Ellipse 5 */
+
+position: absolute;
+width: 47px;
+height: 48px;
+left: 1321px;
+top: 2970px;
+
+background: #EA4924;
+
+
+/* Ellipse 6 */
+
+position: absolute;
+width: 47px;
+height: 47px;
+left: 1321px;
+top: 3034px;
+
+background: #802814;
+
+
+/* Arrow 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 18.38px;
+height: 0px;
+left: 1338px;
+top: 3001px;
+
+border: 2px solid #000000;
+transform: rotate(-45deg);
+
+
+/* Arrow 2 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 18.38px;
+height: 0px;
+left: 1336.54px;
+top: 3053.9px;
+
+border: 2px solid #000000;
+transform: rotate(30deg);
+
+
+/* Industries we are in. */
+
+position: absolute;
+width: 512px;
+height: 121px;
+left: calc(50% - 512px/2);
+top: 2352px;
+
+font-family: 'Mont';
+font-style: normal;
+font-weight: 800;
+font-size: 50px;
+line-height: 121px;
+/* identical to box height, or 242% */
+display: flex;
+align-items: center;
+text-transform: capitalize;
+
+color: #EA4924;
+
+
+
+/* 01. */
+
+position: absolute;
+width: 112px;
+height: 121px;
+left: calc(50% - 112px/2 - 517px);
+top: 3469px;
+
+font-family: 'Mont';
+font-style: normal;
+font-weight: 400;
+font-size: 100px;
+line-height: 121px;
+/* identical to box height, or 121% */
+display: flex;
+align-items: center;
+
+color: #EA4924;
+
+
+
+/* Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s */
+
+position: absolute;
+width: 728px;
+height: 54px;
+left: 355px;
+top: 2473px;
+
+font-family: 'Mont';
+font-style: normal;
+font-weight: 200;
+font-size: 18px;
+line-height: 32px;
+/* or 181% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Group 21 */
+
+position: absolute;
+width: 617px;
+height: 208px;
+left: 674px;
+top: 3428px;
+
+
+
+/* Petroleum. */
+
+position: absolute;
+width: 265px;
+height: 121px;
+left: calc(50% - 265px/2 + 86.5px);
+top: 3428px;
+
+font-family: 'Mont';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 121px;
+/* identical to box height, or 242% */
+display: flex;
+align-items: center;
+
+color: #EA4924;
+
+
+
+/* Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s */
+
+position: absolute;
+width: 617px;
+height: 94px;
+left: 674px;
+top: 3542px;
+
+font-family: 'Mont';
+font-style: normal;
+font-weight: 200;
+font-size: 18px;
+line-height: 32px;
+/* or 181% */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 18 */
+
+position: absolute;
+width: 1144px;
+height: 572px;
+left: 147px;
+top: 2752px;
+
+background: #D9D9D9;
+border-radius: 15px;
+
+
+/* industrial-furnace-heat-exchanger-cracking-hydrocarbons-factory-sky-sunset-close-up-equipment-petrochemical-plant 1 */
+
+position: absolute;
+width: 1144px;
+height: 572px;
+left: 147px;
+top: 2752px;
+
+background: url(industrial-furnace-heat-exchanger-cracking-hydrocarbons-factory-sky-sunset-close-up-equipment-petrochemical-plant.jpg);
+border-radius: 15px;
+
+
+/* Rectangle 22 */
+
+position: absolute;
+width: 1144px;
+height: 572px;
+left: 147px;
+top: 2752px;
+
+background: linear-gradient(360deg, #000000 0%, rgba(0, 0, 0, 0) 26.56%);
+border-radius: 15px;
+
+
+/* 1.5 Million+ Applicants | 120+ Countries | 20,000+ Companies */
+
+position: absolute;
+width: 597px;
+height: 30px;
+left: 125px;
+top: 687px;
+
+font-family: 'Mont';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 42px;
+/* or 210% */
+
+color: #EA4924;
+
+
+
+/* Group 18 */
+
+position: absolute;
+width: 118px;
+height: 32px;
+left: 1278px;
+top: 19px;
+
+
+
+/* Rectangle 23 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 118px;
+height: 32px;
+left: 1278px;
+top: 19px;
+
+border: 0.5px solid #D9D9D9;
+border-radius: 3px;
+
+
+/* image 7 */
+
+position: absolute;
+width: 21.13px;
+height: 14.41px;
+left: 1289px;
+top: 27.8px;
+
+background: url(image.png);
+border-radius: 3px;
+
+
+/* Vector 2 */
+
+position: absolute;
+width: 0px;
+height: 30px;
+left: 1320px;
+top: 20px;
+
+border: 0.5px solid #FFFFFF;
+
+
+/* Kenya */
+
+position: absolute;
+width: 38px;
+height: 20px;
+left: 1332px;
+top: 25px;
+
+font-family: 'Mont';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 42px;
+/* or 350% */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* Arrow 3 (Stroke) */
+
+position: absolute;
+width: 5px;
+height: 8px;
+left: 1386px;
+top: 33px;
+
+background: #EA4924;
+transform: rotate(90deg);
+
+
+/* Group 20 */
+
+position: absolute;
+width: 18px;
+height: 16.36px;
+left: 51px;
+top: 44px;
+
+transform: rotate(-90deg);
+
+
+/* Group 19 */
+
+position: absolute;
+width: 18px;
+height: 16.36px;
+left: 51px;
+top: 44px;
+
+transform: rotate(-90deg);
+
+
+/* Rectangle 24 */
+
+position: absolute;
+width: 3.27px;
+height: 16.36px;
+left: 51px;
+top: 44px;
+
+background: #D9D9D9;
+border-radius: 26px;
+transform: rotate(-90deg);
+
+
+/* Rectangle 25 */
+
+position: absolute;
+width: 3.27px;
+height: 16.36px;
+left: 51px;
+top: 36.64px;
+
+background: #D9D9D9;
+border-radius: 26px;
+transform: rotate(-90deg);
+
+
+/* Rectangle 26 */
+
+position: absolute;
+width: 3.27px;
+height: 16.36px;
+left: 51px;
+top: 29.27px;
+
+background: #D9D9D9;
+border-radius: 26px;
+transform: rotate(-90deg);
+
+
+/* Rectangle 30 */
+
+position: absolute;
+width: 1442px;
+height: 705px;
+left: -1px;
+top: 3755px;
+
+background: linear-gradient(180deg, #EA4924 83.69%, rgba(234, 73, 36, 0) 202.27%);
+
+
+/* robot-with-tablet 1 */
+
+position: absolute;
+width: 772px;
+height: 964px;
+left: 1410px;
+top: 3733px;
+
+background: url(robot-with-tablet.png);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Rectangle 32 */
+
+position: absolute;
+width: 732px;
+height: 744px;
+left: -1px;
+top: 4460px;
+
+background: linear-gradient(360deg, #D53F1C 94.22%, rgba(213, 63, 28, 0) 151.41%);
+
+
+/* Rectangle 33 */
+
+position: absolute;
+width: 732px;
+height: 744px;
+left: 731px;
+top: 4460px;
+
+background: #F1F1F1;
+
+
+/* white-textured-concrete 1 */
+
+position: absolute;
+width: 711px;
+height: 744px;
+left: 731px;
+top: 4460px;
+
+background: url(white-textured-concrete.jpg);
+
+
+/* Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, */
+
+position: absolute;
+width: 374px;
+height: 195px;
+left: 775px;
+top: 4838px;
+
+font-family: 'Mont';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 34px;
+/* or 172% */
+
+color: #000000;
+
+
+
+/* robot-gesturing 1 */
+
+position: absolute;
+width: 318px;
+height: 647px;
+left: 731px;
+top: 4557px;
+
+background: url(robot-gesturing.png);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Profile visibility & Ranking */
+
+position: absolute;
+width: 393px;
+height: 132px;
+left: 130px;
+top: 3879px;
+
+font-family: 'Mont';
+font-style: normal;
+font-weight: 800;
+font-size: 50px;
+line-height: 66px;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+
+/* Smooth Hiring Process */
+
+position: absolute;
+width: 362px;
+height: 132px;
+left: 130px;
+top: 4682px;
+
+font-family: 'Mont';
+font-style: normal;
+font-weight: 800;
+font-size: 50px;
+line-height: 66px;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+
+/* Access to global companies */
+
+position: absolute;
+width: 538px;
+height: 268px;
+left: 759px;
+top: 4693px;
+
+font-family: 'Mont';
+font-style: normal;
+font-weight: 800;
+font-size: 50px;
+line-height: 110.31%;
+/* or 55px */
+text-transform: capitalize;
+
+color: #EA4924;
+
+
+
+/* Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries. */
+
+position: absolute;
+width: 476px;
+height: 231px;
+left: 130px;
+top: 4035px;
+
+font-family: 'Mont';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 34px;
+/* or 192% */
+
+color: #FFFFFF;
+
+
+
+/* Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, */
+
+position: absolute;
+width: 318px;
+height: 195px;
+left: 130px;
+top: 4838px;
+
+font-family: 'Mont';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 34px;
+/* or 192% */
+
+color: #FFFFFF;
+
+
+
+/* Ellipse 7 */
+
+position: absolute;
+width: 436px;
+height: 436px;
+left: 1389px;
+top: 5270px;
+
+background: rgba(234, 73, 36, 0.95);
+filter: blur(256px);
+
+
+/* Ellipse 8 */
+
+position: absolute;
+width: 436px;
+height: 436px;
+left: 1437px;
+top: 6457px;
+
+background: rgba(234, 73, 36, 0.95);
+filter: blur(256px);
+
+
+/* Ellipse 9 */
+
+position: absolute;
+width: 436px;
+height: 436px;
+left: -496px;
+top: 6926px;
+
+background: rgba(234, 73, 36, 0.95);
+filter: blur(256px);
+
+
+/* d429433ccb 1 */
+
+position: absolute;
+width: 760px;
+height: 840px;
+left: 695px;
+top: 5659px;
+
+background: url(d429433ccb.png);
+
+
+/* 65968 1 */
+
+position: absolute;
+width: 811px;
+height: 810px;
+left: 681px;
+top: 5287px;
+
+background: url(65968.png);
+
+
+/* Get the Career app */
+
+position: absolute;
+width: 488px;
+height: 100px;
+left: calc(50% - 488px/2 - 346px);
+top: 5487px;
+
+font-family: 'Mont';
+font-style: normal;
+font-weight: 600;
+font-size: 50px;
+line-height: 100px;
+/* identical to box height, or 200% */
+display: flex;
+align-items: center;
+
+color: #EA4924;
+
+
+
+/* Testimonials */
+
+position: absolute;
+width: 320px;
+height: 100px;
+left: calc(50% - 320px/2);
+top: 7533px;
+
+font-family: 'Mont';
+font-style: normal;
+font-weight: 800;
+font-size: 50px;
+line-height: 100px;
+/* identical to box height, or 200% */
+display: flex;
+align-items: center;
+
+color: #EA4924;
+
+
+
+/* Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s */
+
+position: absolute;
+width: 603px;
+height: 94px;
+left: 130px;
+top: 5603px;
+
+font-family: 'Mont';
+font-style: normal;
+font-weight: 200;
+font-size: 18px;
+line-height: 32px;
+/* or 181% */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s */
+
+position: absolute;
+width: 723px;
+height: 94px;
+left: calc(50% - 723px/2 - 0.5px);
+top: 7621px;
+
+font-family: 'Mont';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 35px;
+/* or 194% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. */
+
+position: absolute;
+width: 600px;
+height: 289px;
+left: 103px;
+top: 6943px;
+
+font-family: 'Mont';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 32px;
+/* or 181% */
+
+color: #FFFFFF;
+
+
+
+/* Group 22 */
+
+position: absolute;
+width: 266px;
+height: 117.51px;
+left: 120px;
+top: 5713px;
+
+
+
+/* available-on-the-app-store-logo 1 */
+
+position: absolute;
+width: 137.23px;
+height: 103.11px;
+left: 120px;
+top: 5720.09px;
+
+background: url(available-on-the-app-store-logo.png);
+
+
+/* google-play-software-mobile-phone-logo-symbol-vector-46347662 1 */
+
+position: absolute;
+width: 144.81px;
+height: 117.51px;
+left: 241.19px;
+top: 5713px;
+
+background: url(google-play-software-mobile-phone-logo-symbol-vector-46347662.png);
+
+
+/* test your skills and rank yourself to the top list */
+
+position: absolute;
+width: 714px;
+height: 139px;
+left: 100px;
+top: 6765px;
+
+font-family: 'Mont';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 69px;
+/* or 138% */
+display: flex;
+align-items: center;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+
+/* Group 23 */
+
+position: absolute;
+width: 720.8px;
+height: 849px;
+left: 764px;
+top: 6551px;
+
+
+
+/* 6bbfeee9b1 1 */
+
+position: absolute;
+width: 720.8px;
+height: 849px;
+left: 764px;
+top: 6551px;
+
+background: url(6bbfeee9b1.png);
+
+
+/* Star 1 */
+
+position: absolute;
+width: 81.67px;
+height: 81.67px;
+left: 814.33px;
+top: 7203.42px;
+
+background: #EA4924;
+border-radius: 4px;
+
+
+/* Star 2 */
+
+position: absolute;
+width: 81.67px;
+height: 81.67px;
+left: 907.4px;
+top: 7110.35px;
+
+background: #EA4924;
+border-radius: 4px;
+
+
+/* Star 3 */
+
+position: absolute;
+width: 81.67px;
+height: 81.67px;
+left: 999.52px;
+top: 7014.44px;
+
+background: #EA4924;
+border-radius: 4px;
+
+
+/* Star 4 */
+
+position: absolute;
+width: 47.48px;
+height: 47.48px;
+left: 1099.23px;
+top: 6928.97px;
+
+background: #EA4924;
+border-radius: 3px;
+
+
+/* Group 25 */
+
+position: absolute;
+width: 1277px;
+height: 384px;
+left: 81px;
+top: 7798px;
+
+
+
+/* Ellipse 10 */
+
+position: absolute;
+width: 384px;
+height: 384px;
+left: 552px;
+top: 7798px;
+
+background: rgba(234, 73, 36, 0.95);
+filter: blur(256px);
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 837px;
+height: 383px;
+left: 301px;
+top: 7798px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Rectangle 38 */
+
+position: absolute;
+width: 287px;
+height: 383px;
+left: 301px;
+top: 7798px;
+
+background: url(image.png);
+mix-blend-mode: normal;
+
+
+/* Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 */
+
+position: absolute;
+width: 450px;
+height: 118px;
+left: 625px;
+top: 7915px;
+
+font-family: 'Mont';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 32px;
+/* or 162% */
+
+color: #000000;
+
+
+
+/* Rectangle 35 */
+
+position: absolute;
+width: 172px;
+height: 383px;
+left: 81px;
+top: 7798px;
+
+background: #D9D9D9;
+
+
+/* Rectangle 39 */
+
+position: absolute;
+width: 172px;
+height: 383px;
+left: 1186px;
+top: 7798px;
+
+background: #D9D9D9;
+
+
+/* image 13 */
+
+position: absolute;
+width: 172px;
+height: 383px;
+left: 81px;
+top: 7798px;
+
+background: url(image.png);
+
+
+/* image 14 */
+
+position: absolute;
+width: 172px;
+height: 383px;
+left: 1186px;
+top: 7798px;
+
+background: url(image.png);
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 172px;
+height: 383px;
+left: 81px;
+top: 7798px;
+
+background: #EA4924;
+mix-blend-mode: multiply;
+
+
+/* Rectangle 40 */
+
+position: absolute;
+width: 172px;
+height: 383px;
+left: 1186px;
+top: 7798px;
+
+background: #EA4924;
+mix-blend-mode: multiply;
+
+
+/* Harriet Mitchell */
+
+position: absolute;
+width: 239px;
+height: 33px;
+left: 624px;
+top: 8073px;
+
+font-family: 'Mont';
+font-style: normal;
+font-weight: 800;
+font-size: 30px;
+line-height: 32px;
+/* identical to box height, or 108% */
+
+color: #EA4924;
+
+
+
+/* Project Manager */
+
+position: absolute;
+width: 170px;
+height: 33px;
+left: 624px;
+top: 8110px;
+
+font-family: 'Mont';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 32px;
+/* identical to box height, or 162% */
+
+color: #000000;
+
+
+
+/* “ */
+
+position: absolute;
+width: 56px;
+height: 45px;
+left: 630px;
+top: 7845px;
+
+background: #EA4924;
+
+
+/* Arrow 4 (Stroke) */
+
+position: absolute;
+width: 30px;
+height: 15px;
+left: 182px;
+top: 8011px;
+
+background: #FFFFFF;
+border-radius: 1px;
+transform: rotate(-180deg);
+
+
+/* Arrow 4 (Stroke) */
+
+position: absolute;
+width: 30px;
+height: 15px;
+left: 1257px;
+top: 7996px;
+
+background: #FFFFFF;
+border-radius: 1px;
+
+
+/* Group 390 */
+
+position: absolute;
+width: 1179px;
+height: 413px;
+left: 81px;
+top: 8445px;
+
+
+
+/* Group 26 */
+
+position: absolute;
+width: 413px;
+height: 315px;
+left: 81px;
+top: 8445px;
+
+
+
+/* Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s */
+
+position: absolute;
+width: 398px;
+height: 108px;
+left: 96px;
+top: 8542px;
+
+font-family: 'Mont';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 32px;
+/* or 217% */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* Group 24 */
+
+position: absolute;
+width: 249px;
+height: 110px;
+left: 81px;
+top: 8650px;
+
+
+
+/* available-on-the-app-store-logo 1 */
+
+position: absolute;
+width: 128.46px;
+height: 96.52px;
+left: 81px;
+top: 8657.81px;
+
+background: url(available-on-the-app-store-logo.png);
+
+
+/* google-play-software-mobile-phone-logo-symbol-vector-46347662 1 */
+
+position: absolute;
+width: 135.55px;
+height: 110px;
+left: 194.45px;
+top: 8650px;
+
+background: url(google-play-software-mobile-phone-logo-symbol-vector-46347662.png);
+
+
+/* Job Villa logo-01 1 */
+
+position: absolute;
+width: 251px;
+height: 68px;
+left: 96px;
+top: 8445px;
+
+background: url(Job Villa logo Final-01.png);
+
+
+/* Quick links */
+
+position: absolute;
+width: 115px;
+height: 27px;
+left: calc(50% - 115px/2 + 105.5px);
+top: 8445px;
+
+font-family: 'Mont';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 151.5%;
+/* or 27px */
+text-transform: uppercase;
+
+color: #EA4924;
+
+
+
+/* Social media */
+
+position: absolute;
+width: 132px;
+height: 27px;
+left: calc(50% - 132px/2 + 474px);
+top: 8445px;
+
+font-family: 'Mont';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 151.5%;
+/* or 27px */
+text-transform: uppercase;
+
+color: #EA4924;
+
+
+
+/* Home */
+
+position: absolute;
+width: 45px;
+height: 23px;
+left: calc(50% - 45px/2 + 70.5px);
+top: 8509px;
+
+font-family: 'Mont';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 151.5%;
+/* identical to box height, or 23px */
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+
+/* Instagram */
+
+position: absolute;
+width: 79px;
+height: 23px;
+left: calc(50% - 79px/2 + 447.5px);
+top: 8509px;
+
+font-family: 'Mont';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 151.5%;
+/* identical to box height, or 23px */
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+
+/* People talk */
+
+position: absolute;
+width: 86px;
+height: 23px;
+left: calc(50% - 86px/2 + 91px);
+top: 8574px;
+
+font-family: 'Mont';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 151.5%;
+/* identical to box height, or 23px */
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+
+/* Facebook */
+
+position: absolute;
+width: 76px;
+height: 23px;
+left: calc(50% - 76px/2 + 446px);
+top: 8574px;
+
+font-family: 'Mont';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 151.5%;
+/* identical to box height, or 23px */
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+
+/* Discovers */
+
+position: absolute;
+width: 73px;
+height: 23px;
+left: calc(50% - 73px/2 + 84.5px);
+top: 8639px;
+
+font-family: 'Mont';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 151.5%;
+/* identical to box height, or 23px */
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+
+/* opportunity */
+
+position: absolute;
+width: 93px;
+height: 23px;
+left: calc(50% - 93px/2 + 94.5px);
+top: 8704px;
+
+font-family: 'Mont';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 151.5%;
+/* identical to box height, or 23px */
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+
+/* Twitter */
+
+position: absolute;
+width: 52px;
+height: 23px;
+left: calc(50% - 52px/2 + 434px);
+top: 8639px;
+
+font-family: 'Mont';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 151.5%;
+/* identical to box height, or 23px */
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+
+/* Copyright © 2023 creativegianttechnologies. All Rights Reserved. */
+
+position: absolute;
+width: 486px;
+height: 21px;
+left: calc(50% - 486px/2);
+top: 8837px;
+
+font-family: 'Mont';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 151.5%;
+/* or 23px */
+text-align: center;
+text-transform: capitalize;
+
+color: #3A3A3A;
+
+
+
+/* robot-protecting-world-removebg-preview 1 */
+
+position: absolute;
+width: 571px;
+height: 714px;
+left: 1049px;
+top: 4508px;
+
+background: url(robot-protecting-world-removebg-preview.png);
